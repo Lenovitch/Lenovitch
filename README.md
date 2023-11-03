@@ -5,7 +5,8 @@ Mi nombres es Bárbara Herrera. Actualmente estudio programación en la Universi
 
 A la hora de abordar un proyecto esta formación me permite trabajar en equipo, tener una buena comunicación, flexibilidad y adaptación a los cambios del mismo. 
 Me dedico permanentemente a encontrar formas innovadoras de avanzar y perfeccionar mis competencias técnicas.
-Todas estas habilidades me capacitan para adaptarme a las necesidades de diversos proyectos y seguir el ritmo de las tendencias actuales en desarrollo
+
+Todas estas habilidades me capacitan para adaptarme a las necesidades de diversos proyectos y seguir el ritmo de las tendencias actuales en desarrollo.
 
 
 ![](https://i.giphy.com/media/5WILqPq29TyIkVCSej/giphy.webp)
